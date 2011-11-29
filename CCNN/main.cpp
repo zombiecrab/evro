@@ -1,6 +1,6 @@
 #include <iostream>
 #include "neuralNet.cpp"
-
+//test
 using namespace std;
 
 int main()

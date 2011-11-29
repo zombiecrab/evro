@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1320922441 source:c:\users\alex\dropbox\ccnn\attempt2\ccnn\neuron.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
